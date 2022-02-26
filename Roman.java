@@ -1,6 +1,6 @@
 /*
 @author Sarthak Vinayaka
-Code - Roman to Integer
+Code - Roman to Int
 IDE - Eclipse
 */
 public int romanToInt(String s) {
